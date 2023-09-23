@@ -218,6 +218,15 @@
     border: #3882F6;
 }
 
+.footer{
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:#1f2937;
+    color: #E5E7EB;
+}
+
 
 
 
