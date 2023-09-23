@@ -174,6 +174,54 @@
     color: #1f2937;
 }
 
+.sayhi-section{
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+
+    /* border:2px solid red; */
+}
+
+.sayhi-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100vw;
+    height: 150px;
+    margin: 0px 150px;
+    padding: 0px 80px;
+
+    background-color: #3882F6;
+    border-radius: 10px;
+    color: #E5E7EB;
+}
+
+.sayhi-heading{
+    margin-bottom: 5px;
+}
+
+.sayhi-content-btn{
+    width:120px;
+    height: 35px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #3882F6;
+    border: 2px solid #E5E7EB;
+    color: #E5E7EB;
+}
+
+.sayhi-content-btn:hover{
+    background-color: #E5E7EB;
+    color: #3882F6;
+    border: #3882F6;
+}
+
+
+
+
+
 
 
 
